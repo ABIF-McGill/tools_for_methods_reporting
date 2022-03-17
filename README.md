@@ -46,8 +46,8 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 [Article](https://www.nature.com/articles/s41592-021-01290-5)
 
 
-MethodsJ2 python script:
-[MethodsJ2 github](https://github.com/ABIF-McGill/MethodsJ2])
+
+[MethodsJ2](https://github.com/ABIF-McGill/MethodsJ2])
 
 
 
