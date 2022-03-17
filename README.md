@@ -65,7 +65,7 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 
 ## [Imaging methods are vastly underreported in biomedical research](https://elifesciences.org/articles/55133)
 
-Guillermo Marqués Is a corresponding author, Thomas Pengo, Mark A Sanders
+Guillermo Marqués, Thomas Pengo, Mark A Sanders
 
 *eLife*, 2020 [DOI: 10.7554/eLife.55133](https://doi.org/10.7554/eLife.55133)
 <br>
