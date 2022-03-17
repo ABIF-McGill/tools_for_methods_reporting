@@ -55,7 +55,7 @@ Joel Ryan, Thomas Pengo, Alex Rigano, Paula Montero Llopis, Michelle S. Itano, L
 
 ### Software:
 
-[MethodsJ2](https://github.com/ABIF-McGill/MethodsJ2]) github repository, including python script and associated demo files
+[MethodsJ2](https://github.com/ABIF-McGill/MethodsJ2) github repository, including python script and associated demo files
 
 <br>
 
