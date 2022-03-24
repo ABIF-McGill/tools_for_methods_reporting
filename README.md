@@ -8,6 +8,11 @@ Virtual Illuminate workshop on Tools to Automate Microscopy Methods Reporting - 
 
 <br>
 
+Slides available in this repo: Slides_Virtual_Illuminate_MethodsJ2_upload_JR.pdf
+
+<br>
+
+
 Below is the list of papers and associated software discussed in the workshop:
 
 <br>
