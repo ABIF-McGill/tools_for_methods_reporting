@@ -4,7 +4,7 @@ Virtual Illuminate workshop on Tools to Automate Microscopy Methods Reporting - 
 
 <br>
 
-Video link will be available soon.
+[Watch video on YouTube](https://youtu.be/AhipYVt6fR0)
 
 <br>
 
